@@ -1,0 +1,32 @@
+.text-red-500{
+    color: red;
+   }
+
+form{
+display: flex;
+flex-direction: column;
+width:350px;
+height: auto;
+padding: 5px;
+
+}
+#b1{
+    width:100%;
+    margin:5px;
+    background-color: rgb(116, 116, 236);
+
+}
+#b2{
+    width:100%;
+    margin:5px;
+    background-color: rgb(116, 116, 236);
+
+}
+
+input{
+    width: 100%;
+    height: 30px;
+    border-radius:8px;
+    margin-bottom: 5px;
+    padding: 5px;
+}
