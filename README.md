@@ -31,7 +31,7 @@ A **React + TypeScript** based simple e-commerce web application that fetches pr
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/your-username/simple-ecommerce-app.git
+   git clone [https://github.com/your-username/simple-ecommerce-app.git](https://github.com/Ashugithubb/FetchProduct-Typescript.git)
    cd simple-ecommerce-app
    ```
 
