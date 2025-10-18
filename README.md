@@ -31,8 +31,7 @@ A **React + TypeScript** based simple e-commerce web application that fetches pr
 1. **Clone the repository**
 
    ```bash
-   git clone [https://github.com/your-username/simple-ecommerce-app.git](https://github.com/Ashugithubb/FetchProduct-Typescript.git)
-   cd simple-ecommerce-app
+   git clone https://github.com/Ashugithubb/FetchProduct-Typescript.git
    ```
 
 2. **Install dependencies**
@@ -60,9 +59,3 @@ The app fetches data from an open product API such as:
 👉 [https://fakestoreapi.com/](https://fakestoreapi.com/)
 
 ---
-
-
-
----
-
-Would you like me to make the README **more beginner-friendly** (with emoji sections and simpler language) or **more professional** (for recruiters or portfolio)?
